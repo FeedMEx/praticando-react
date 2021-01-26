@@ -1,0 +1,22 @@
+
+.images:hover {
+    cursor: pointer;
+}
+
+.jumbotron {
+    height:100%;
+    width:100%;
+}
+
+
+.button-container button{
+    position:fixed;
+    bottom:4em;
+    right:4em;
+    background-color:#8F0005;
+    border-radius:1.5em;
+    color:white;
+    text-transform:uppercase;
+    padding:1em 1.5em;
+}
+
