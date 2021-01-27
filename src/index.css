@@ -3,12 +3,6 @@
     cursor: pointer;
 }
 
-.jumbotron {
-    height:100%;
-    width:100%;
-}
-
-
 .button-container button{
     position:fixed;
     bottom:4em;
