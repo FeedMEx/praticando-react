@@ -94,7 +94,7 @@ export const NewImage = () => {
                                 className="form-control card" 
                                 onChange={e => setName(e.target.value)} 
                                 value = {name}
-                                placeholder="Ej: Bob estupido"
+                                placeholder="Ej: Bob el constructor :'v"
                                 autoFocus
                                 required
                             />
